@@ -1,5 +1,5 @@
 # import day1 puzzle
-file1 = open('day1.txt', 'r')
+file1 = open('Day1\day1.txt', 'r')
 lines = file1.readlines()
 total = 0
 
