@@ -1,0 +1,1 @@
+I did indeed solve Day 5 already but then exitted my IDE while forgetting to save everything so when I returned it literally only had the line of code I used to parse the seed numbers. I'll probably come back and submit my code later but rn wanna move on to the other days since I'm behind due to finals.
